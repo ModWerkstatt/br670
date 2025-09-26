@@ -2,10 +2,10 @@ function data()
 return {
 	en = {
 
-		["mod_name"] = "DB Class 672 LVT/S)",
+		["mod_name"] = "DB Class 670 double deck rail car",
 		["mod_desc"] = "The class 670 is a double-decker diesel railcar. It has two axles and contains parts from bus construction. They were built from 1996 onwards, a successor series was never built. The trains were used on some lines, especially in Thuringia and on the Moselle line. As there were frequent problems, especially with the engine cooling, they were removed from active service. Half of the vehicles have been parked since 2014, the others are partly still in service.\n\nAvilibility: 1996-2014\nMaximum speed: 100 km/h\nCapacity: 28",
 
-        ["br672_menu"] = "Class 672 LVT/S",
+        ["br670_menu"] = "Class 670 double deck rail car",
 
         ["br670_1_name"] = "Class 670 002 first livery (1996)",
 		["br670_2_name"] = "Class 670 006 (\"Alfred\") (1996)",
@@ -18,10 +18,10 @@ return {
 	},
 	de = {
 
-		["mod_name"] = "BR 672 LVT/S",
+		["mod_name"] = "BR 670 Doppelstock-Schienenbus",
 		["mod_desc"] = "Die Baureihe 670 ist ein doppelstöckiger Dieseltriebwagen. Er ist zweiachsig und enthält Teile aus dem Omnibusbau. Gebaut wurden sie ab 1996, eine Nachfolgerserie wurde nie gebaut. Die Zügen waren auf einigen Strecken unterwegs vor allem in Thürigen und auf der Moselstrecke. Da es häufige Probleme vor allem mit der Motorkühlung gab, wurden sie aus dem aktiven Dienst entfernt. Die Hälfte der Fahrzeuge ist seit 2014 abgestellt, die anderen sind teilweise noch im Einsatz.\n\nVerfügbarkeit: 1996-2014\nHöchstgeschwindigkeit: 100 km/h\nKapazität: 28",
 
-        ["br672_menu"] = "BR 672 LVT/S",
+        ["br670_menu"] = "BR 670 Doppelstock-Schienenbus",
 
         ["br670_1_name"] = "BR 670 002 Erstlackierung (1996)",
 		["br670_2_name"] = "BR 670 006 (\"Alfred\") (1996)",
