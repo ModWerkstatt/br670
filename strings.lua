@@ -19,7 +19,7 @@ return {
 	de = {
 
 		["mod_name"] = "BR 670 Doppelstock-Schienenbus",
-		["mod_desc"] = "Die Baureihe 670 ist ein doppelstöckiger Dieseltriebwagen. Er ist zweiachsig und enthält Teile aus dem Omnibusbau. Gebaut wurden sie ab 1996, eine Nachfolgerserie wurde nie gebaut. Die Zügen waren auf einigen Strecken unterwegs vor allem in Thürigen und auf der Moselstrecke. Da es häufige Probleme vor allem mit der Motorkühlung gab, wurden sie aus dem aktiven Dienst entfernt. Die Hälfte der Fahrzeuge ist seit 2014 abgestellt, die anderen sind teilweise noch im Einsatz.\n\nVerfügbarkeit: 1996-2014\nHöchstgeschwindigkeit: 100 km/h\nKapazität: 28",
+		["mod_desc"] = "Die Baureihe 670 ist ein doppelstöckiger Dieseltriebwagen. Er ist zweiachsig und enthält Teile aus dem Omnibusbau. Gebaut wurden sie ab 1996, eine Nachfolgerserie wurde nie gebaut. Die Triebwagen- waren auf einigen Strecken unterwegs vor allem in Thürigen und auf der Moselstrecke. Da es häufige Probleme vor allem mit der Motorkühlung gab, wurden sie aus dem aktiven Dienst entfernt. Die Hälfte der Fahrzeuge ist seit 2014 abgestellt, die anderen sind teilweise noch im Einsatz.\n\nVerfügbarkeit: 1996-2014\nHöchstgeschwindigkeit: 100 km/h\nKapazität: 28",
 
         ["br670_menu"] = "BR 670 Doppelstock-Schienenbus",
 
